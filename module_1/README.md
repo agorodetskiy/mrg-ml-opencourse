@@ -5,7 +5,7 @@
 
 Metric: averaged f1-measure over all classes
 
-kernel svm, test average f1: 0.96
+**polynomial kernel svm**, test average f1: 0.96
 
 Usage:
 
